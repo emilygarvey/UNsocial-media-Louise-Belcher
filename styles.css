@@ -1,0 +1,52 @@
+.footer {
+    text-align: center;
+}
+body {
+    background-color: #8AB241;
+}
+
+.nav {
+    background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/J9H9WF0/cute-romantic-pink-gradient-background-with-moving-sparkling-light-dot-particles_h_mvxujr_thumbnail-full01.png");
+    text-align: center;
+    color: khaki;
+    padding: 1px;
+    border: 10px dotted khaki;
+    font-size: 15px;
+    font-family: 'Gloria Hallelujah', cursive;
+    display: flex;
+    justify-content: space-around;
+}
+
+photos {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin: 30px 0px;
+}
+
+.body {
+    display: flex;
+
+    font-family: 'Chonburi', cursive;
+    font-size: 10px;
+    color: pink;
+}
+
+.about, .wall, .photos {
+    text-align: center;
+    border: 10px solid #e13db1;
+    border-radius: 10%;
+    padding: 10px;
+    margin: 5px;
+}
+    
+
+img {
+    width: 200px;
+}
+
+a:link,
+a:visited {
+    color: pink;
+    text-decoration: none;
+}
